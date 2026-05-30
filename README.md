@@ -16,7 +16,7 @@ class TejoRam:
         self.name        = "K. Tejo Ram Reddy"
         self.location    = "Chennai, India"
         self.degree      = "B.Tech CSE @ Dr. MGR Institute (2023–Present)"
-        self.cgpa        = 7.95
+        self.cgpa        = "7.95 (upto 4th sem) | 3rd Year, 6th Sem"
 
         self.goal        = "Aspiring Full Stack Developer"
         self.stack       = ["Python", "Flask", "Java", "HTML5", "CSS3", "JavaScript"]
@@ -140,7 +140,7 @@ print(me.motto())
 
 | 🏅 | Achievement | Details |
 |:--:|:-----------:|:-------:|
-| 🎓 | B.Tech CSE | CGPA 7.95 · Dr. MGR Institute, Chennai |
+| 🎓 | B.Tech CSE | CGPA 7.95 (upto 4th sem) · 3rd Year, 6th Sem · Dr. MGR Institute, Chennai |
 | 📚 | Class XII | 88.3% · SR Junior College, Tirupathi |
 | 🌟 | Class X | **99.5%** · Narayana High School, Tirupathi |
 | 🏆 | Meta Certified | Introduction to Front-End Development |
@@ -157,7 +157,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |:------:|:-----------:|:----:|:-----:|
-| B.Tech — CSE | Dr. MGR Educational and Research Institute, Chennai | 2023 – Present | CGPA: 7.95 |
+| B.Tech — CSE | Dr. MGR Educational and Research Institute, Chennai | 2023 – Present | CGPA: 7.95 (upto 4th sem) |
 | Class XII | SR Junior College, Tirupathi | 2021 – 2023 | 88.3% |
 | Class X | Narayana High School, Tirupathi | 2020 – 2021 | 99.5% |
 
@@ -182,7 +182,8 @@ print(me.motto())
 
 - ♟️ **Chess** — strategic thinking and long-term planning
 - ☕ **Java DSA** — practicing problem solving and data structures daily
-- 🔍 **Enterprise Tech** — exploring how large-scale systems like SAP work
+- 🌐 **Full Stack Development** — building end-to-end web apps with clean UI and solid backends
+- 🤖 **AI & ML Engineering** — exploring machine learning, neural networks, and how AI powers real products
 
 ---
 
