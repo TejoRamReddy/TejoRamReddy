@@ -10,29 +10,33 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class TejoRam:
-    def __init__(self):
-        self.name        = "K. Tejo Ram Reddy"
-        self.location    = "Chennai, India"
-        self.degree      = "B.Tech CSE @ Dr. MGR Institute (2023–Present)"
-        self.cgpa        = "7.95 (upto 4th sem) | 3rd Year, 6th Sem"
+```java
+public class TejoRam {
 
-        self.goal        = "Aspiring Full Stack Developer"
-        self.stack       = ["Python", "Flask", "Java", "HTML5", "CSS3", "JavaScript"]
-        self.databases   = ["SQLite"]
-        self.tools       = ["Git", "GitHub", "VS Code"]
+    String name        = "K. Tejo Ram Reddy";
+    String location    = "Chennai, India";
+    String degree      = "B.Tech CSE @ Dr. MGR Institute (2023–Present)";
+    String cgpa        = "7.95 (upto 4th sem) | 3rd Year, 6th Sem";
 
-        self.learning    = ["React.js", "Node.js", "REST APIs",
-                            "DSA", "System Design", "Cloud Basics"]
+    String goal        = "Aspiring Full Stack Developer";
+    String[] stack     = {"Python", "Flask", "Java", "HTML5", "CSS3", "JavaScript"};
+    String[] databases = {"SQLite"};
+    String[] tools     = {"Git", "GitHub", "VS Code"};
 
-        self.fun_fact    = "I scored 99.5% in Class X 🎯"
+    String[] learning  = {"React.js", "Node.js", "REST APIs",
+                          "DSA", "System Design", "Cloud Basics"};
 
-    def motto(self):
-        return "Build things that matter. Ship things that work."
+    String funFact     = "I scored 99.5% in Class X 🎯";
 
-me = TejoRam()
-print(me.motto())
+    public String motto() {
+        return "Build things that matter. Ship things that work.";
+    }
+
+    public static void main(String[] args) {
+        TejoRam me = new TejoRam();
+        System.out.println(me.motto());
+    }
+}
 ```
 
 <br clear="right"/>
@@ -145,6 +149,7 @@ print(me.motto())
 | 🌟 | Class X | **99.5%** · Narayana High School, Tirupathi |
 | 🏆 | Meta Certified | Introduction to Front-End Development |
 | 🎨 | Adobe Certified | Design Fundamentals with AI |
+| 🔵 | IBM Certified | Introduction to Software Engineering |
 | 💼 | HP Life Certified | AI for Business Professionals |
 
 </div>
