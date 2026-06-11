@@ -16,7 +16,7 @@ public class TejoRam {
     String name        = "K. Tejo Ram Reddy";
     String location    = "Chennai, India";
     String degree      = "B.Tech CSE @ Dr. MGR Institute (2023–Present)";
-    String cgpa        = "7.95 (upto 4th sem) | 3rd Year, 6th Sem";
+    String cgpa        = "8.11 (upto 5th sem) | 3rd Year, 6th Sem";
 
     String goal        = "Aspiring Full Stack Developer";
     String[] stack     = {"Python", "Flask", "Java", "HTML5", "CSS3", "JavaScript"};
