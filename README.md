@@ -130,10 +130,9 @@ public class TejoRam {
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:-------:|:-----:|:----------:|
-| [🔗 DevConnect](https://github.com/TejoRamReddy/DevConnect) | Flask · SQLite · HTML5 · CSS3 · JS | Full-stack collaboration platform · Session-based auth · Join Request workflow · Deployed on Render |
-
+| Project | Stack | Live | Highlights |
+|:-------:|:-----:|:----:|:----------:|
+| [🔗 DevConnect](https://github.com/TejoRamReddy/DevConnect) | Flask · SQLite · HTML5 · CSS3 · JS | [🌐 Live Demo](https://devconnect-1-bvwy.onrender.com) | Full-stack collaboration platform · Session-based auth · Join Request workflow · Deployed on Render |
 </div>
 
 ---
