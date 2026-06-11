@@ -161,7 +161,7 @@ public class TejoRam {
 
 | Degree | Institution | Year | Score |
 |:------:|:-----------:|:----:|:-----:|
-| B.Tech — CSE | Dr. MGR Educational and Research Institute, Chennai | 2023 – Present | CGPA: 7.95 (upto 4th sem) |
+| B.Tech — CSE | Dr. MGR Educational and Research Institute, Chennai | 2023 – Present | CGPA: 8.11 (upto 5th sem) |
 | Class XII | SR Junior College, Tirupathi | 2021 – 2023 | 88.3% |
 | Class X | Narayana High School, Tirupathi | 2020 – 2021 | 99.5% |
 
@@ -194,11 +194,15 @@ public class TejoRam {
 ## 📬 Connect With Me
 
 <div align="center">
-
+    
 [![Email](https://img.shields.io/badge/Email-tejoram07@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tejoram07@gmail.com)
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejo%20Ram%20Reddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejo-ram-reddy-3b61a130a)
+    
 [![GitHub](https://img.shields.io/badge/GitHub-TejoRamReddy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TejoRamReddy)
+    
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Chennai)
-
+    
 ![Profile Views](https://komarev.com/ghpvc/?username=TejoRamReddy&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
