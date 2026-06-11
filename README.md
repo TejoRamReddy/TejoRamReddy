@@ -144,7 +144,7 @@ public class TejoRam {
 
 | 🏅 | Achievement | Details |
 |:--:|:-----------:|:-------:|
-| 🎓 | B.Tech CSE | CGPA 7.95 (upto 4th sem) · 3rd Year, 6th Sem · Dr. MGR Institute, Chennai |
+| 🎓 | B.Tech CSE | CGPA 8.11 (upto 5th sem) · 3rd Year, 6th Sem · Dr. MGR Institute, Chennai |
 | 📚 | Class XII | 88.3% · SR Junior College, Tirupathi |
 | 🌟 | Class X | **99.5%** · Narayana High School, Tirupathi |
 | 🏆 | Meta Certified | Introduction to Front-End Development |
