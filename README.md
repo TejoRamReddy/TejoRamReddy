@@ -114,8 +114,8 @@ public class TejoRam {
 | 🏅 | Achievement | Details |
 |---|---|---|
 | 🎓 | B.Tech CSE | CGPA 8.11 (upto 5th sem) · Dr. MGR Institute, Chennai |
-| 📚 | Class XII | 88.3% · SR Junior College, Tirupathi |
-| 🌟 | Class X | **99.5%** · Narayana High School, Tirupathi |
+| 📚 | Class XII | 88.3% · SR Junior College, Tirupati |
+| 🌟 | Class X | **99.5%** · Narayana High School, Tirupati |
 | 🔎 | Google Certified | AI Fundamentals (Coursera) |
 | 🏆 | Meta Certified | Introduction to Front-End Development |
 | 🎨 | Adobe Certified | Design Fundamentals with AI |
@@ -129,8 +129,8 @@ public class TejoRam {
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.Tech — CSE | Dr. MGR Educational and Research Institute, Chennai | 2023 – Present | CGPA: 8.11 (upto 5th sem) |
-| Class XII | SR Junior College, Tirupathi | 2021 – 2023 | 88.3% |
-| Class X | Narayana High School, Tirupathi | 2020 – 2021 | 99.5% |
+| Class XII | SR Junior College, Tirupati | 2021 – 2023 | 88.3% |
+| Class X | Narayana High School, Tirupati | 2020 – 2021 | 99.5% |
 
 ---
 
