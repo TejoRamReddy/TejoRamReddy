@@ -12,7 +12,7 @@ public class TejoRam {
     String name        = "K. Tejo Ram Reddy";
     String location    = "Chennai, India";
     String degree      = "B.Tech CSE @ Dr. MGR Institute (2023–Present)";
-    String cgpa        = "8.11 (upto 5th sem) | 3rd Year, 6th Sem";
+    String cgpa        = "8.11 (upto 5th sem) | Final Year (4th Year)";
 
     String goal        = "Aspiring Full Stack Developer";
     String[] stack     = {"Python", "Flask", "Java", "HTML5", "CSS3", "JavaScript"};
@@ -113,7 +113,7 @@ public class TejoRam {
 
 | 🏅 | Achievement | Details |
 |---|---|---|
-| 🎓 | B.Tech CSE | CGPA 8.11 (upto 5th sem) · 3rd Year, 6th Sem · Dr. MGR Institute, Chennai |
+| 🎓 | B.Tech CSE | CGPA 8.11 (upto 5th sem) · Final Year (4th Year) · Dr. MGR Institute, Chennai |
 | 📚 | Class XII | 88.3% · SR Junior College, Tirupathi |
 | 🌟 | Class X | **99.5%** · Narayana High School, Tirupathi |
 | 🔎 | Google Certified | AI Fundamentals (Coursera) |
