@@ -12,9 +12,9 @@ public class TejoRam {
     String name        = "K. Tejo Ram Reddy";
     String location    = "Chennai, India";
     String degree      = "B.Tech CSE @ Dr. MGR Institute (2023–Present)";
-    String cgpa        = "8.11 (upto 5th sem) | Final Year (4th Year)";
+    String cgpa        = "8.11 (upto 5th sem)";
 
-    String goal        = "Aspiring Full Stack Developer";
+    String goal        = "Full-Stack Developer | Building AI-Powered Applications";
     String[] stack     = {"Python", "Flask", "Java", "HTML5", "CSS3", "JavaScript"};
     String[] databases = {"SQLite"};
     String[] tools     = {"Git", "GitHub", "VS Code"};
@@ -95,8 +95,8 @@ public class TejoRam {
 
 ## 💼 Work Experience
 
-> Completed a technical internship (CodeNerds Program) at Gradtwin Services (OPC) Pvt. Ltd., Chennai — Jun–Aug 2026, focused on Java Full Stack Development (JFSD).
-> Gained hands-on exposure to REST API fundamentals, Git workflows, and relational database concepts through mentor-led, backend-focused training.
+> Completed structured technical training in Java full-stack development at Gradtwin Services (OPC) Pvt. Ltd., Chennai — Jun–Aug 2026.
+> Gained practical exposure to REST API fundamentals, Git workflows, relational database concepts, backend development, and debugging through mentor-led training.
 
 ---
 
@@ -104,8 +104,8 @@ public class TejoRam {
 
 | Project | Stack | Live | Highlights |
 |---|---|---|---|
-| [🔗 DevConnect](https://github.com/TejoRamReddy/DevConnect) | Flask · SQLite · HTML5 · CSS3 · JS | [🌐 Live Demo](https://devconnect-1-bvwy.onrender.com) | Full-stack collaboration platform · Session-based auth · Join Request workflow · Deployed on Render |
-| [🧭 CareerCompass AI](https://github.com/TejoRamReddy/CareerCompass-AI) | Python · Flask · Gemini API · SQLite · scikit-learn · HTML5 · CSS3 | [🌐 Live Demo](https://careercompass-ai-whcv.onrender.com) | AI-powered career interview · Content-based filtering & cosine similarity · Skill-gap analysis · Team Pixel Pioneers |
+| [🔗 DevConnect](https://github.com/TejoRamReddy/DevConnect) | Flask · Flask-SQLAlchemy · SQLite · HTML5 · CSS3 · JavaScript | [🌐 Live Demo](https://devconnect-1-bvwy.onrender.com) | Full-stack collaboration platform · Session-based authentication · Project posting · Join Request workflow · Request management · Deployed on Render |
+| [🧭 CareerCompass AI](https://github.com/TejoRamReddy/CareerCompass-AI) | Python · Flask · Gemini API · SQLite · scikit-learn · HTML5 · CSS3 | [🌐 Live Demo](https://careercompass-ai-whcv.onrender.com) | Team project · Proposed the core idea · Dataset preparation · Frontend contribution · AI-powered interview, career matching & skill-gap features |
 
 ---
 
@@ -113,7 +113,7 @@ public class TejoRam {
 
 | 🏅 | Achievement | Details |
 |---|---|---|
-| 🎓 | B.Tech CSE | CGPA 8.11 (upto 5th sem) · Final Year (4th Year) · Dr. MGR Institute, Chennai |
+| 🎓 | B.Tech CSE | CGPA 8.11 (upto 5th sem) · Dr. MGR Institute, Chennai |
 | 📚 | Class XII | 88.3% · SR Junior College, Tirupathi |
 | 🌟 | Class X | **99.5%** · Narayana High School, Tirupathi |
 | 🔎 | Google Certified | AI Fundamentals (Coursera) |
@@ -141,7 +141,7 @@ public class TejoRam {
 ⚙️  Backend               →  Flask advanced patterns, REST API design, auth with JWT
 🗃️ Databases             →  PostgreSQL, database indexing, query optimization
 ☕ Java DSA              →  Data structures, problem solving, OOP patterns
-☁️ Cloud Basics          →  Render deployment, environment variables, CI basics
+☁️ Cloud Basics          →  Environment variables, deployment workflows, CI basics
 🔐 Security              →  Password hashing, input validation, OWASP top 10
 ```
 
@@ -150,7 +150,7 @@ public class TejoRam {
 ## 🎯 Interests
 
 - ♟️ **Chess** — strategic thinking and long-term planning
-- ☕ **Java DSA** — practicing problem solving and data structures daily
+- ☕ **Java DSA** — practicing problem solving and data structures
 - 🌐 **Full Stack Development** — building end-to-end web apps with clean UI and solid backends
 - 🤖 **AI & ML Engineering** — exploring machine learning, neural networks, and how AI powers real products
 
