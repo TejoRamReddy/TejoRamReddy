@@ -35,7 +35,6 @@ public class TejoRam {
 }
 ```
 
----
 
 ## 🛠️ Tech Stack
 
@@ -70,7 +69,7 @@ public class TejoRam {
 
 
 
----
+
 
 ## 💼 Work Experience
 
