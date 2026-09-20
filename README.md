@@ -1,14 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=K.+Tejo+Ram+Reddy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS+Student+%7C+Aspiring+Full+Stack+Developer+%7C+Building+Real-World+Solutions&descAlignY=62&descSize=16" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=K.+Tejo+Ram+Reddy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS+Student+%7C+Aspiring+Full+Stack+Developer+%7C+Building+Real-World+Solutions&descAlignY=62&descSize=16)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Tejo+Ram+%F0%9F%91%8B;CS+Student+%40+Dr.+MGR+Institute%2C+Chennai;Aspiring+Full+Stack+Developer+%7C+Python+%2B+Flask+%2B+Java;Deployed+DevConnect+%F0%9F%94%97+%7C+Open+to+Internships)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Tejo+Ram+%F0%9F%91%8B%3BCS+Student+%40+Dr.+MGR+Institute%2C+Chennai%3BAspiring+Full+Stack+Developer+%2B+Python+%2B+Flask+%2B+Java%3BDeployed+DevConnect+%F0%9F%9A%80+%2B+Open+to+Internships)](https://git.io/typing-svg)
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+![code](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 ```java
 public class TejoRam {
@@ -38,8 +34,6 @@ public class TejoRam {
     }
 }
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -76,96 +70,67 @@ public class TejoRam {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/TejoRamReddy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejoRamReddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/TejoRamReddy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejoRamReddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
+![Tejo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejoRamReddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejoRamReddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
 
 ---
 
 ## 🔥 Streak Stats
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TejoRamReddy&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=TejoRamReddy&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
 
 ---
 
 ## 📈 Activity Graph
 
-<div align="center">
-
-[![Tejo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TejoRamReddy&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/TejoRamReddy)
-
-</div>
+![Tejo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TejoRamReddy&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 ---
 
 ## 🏆 Trophy Wall
 
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=TejoRamReddy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+![Trophy](https://github-profile-trophy.vercel.app/?username=TejoRamReddy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
 
 ---
 
 ## 💼 Work Experience
 
-> No professional experience yet — actively seeking my first Full Stack internship!
-> Currently building real-world projects across frontend and backend to grow into a full stack developer.
+> Completed a technical internship (CodeNerds Program) at Gradtwin Services (OPC) Pvt. Ltd., Chennai — Jun–Aug 2026, focused on Java Full Stack Development (JFSD).
+> Gained hands-on exposure to REST API fundamentals, Git workflows, and relational database concepts through mentor-led, backend-focused training.
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Stack | Live | Highlights |
-|:-------:|:-----:|:----:|:----------:|
+|---|---|---|---|
 | [🔗 DevConnect](https://github.com/TejoRamReddy/DevConnect) | Flask · SQLite · HTML5 · CSS3 · JS | [🌐 Live Demo](https://devconnect-1-bvwy.onrender.com) | Full-stack collaboration platform · Session-based auth · Join Request workflow · Deployed on Render |
-</div>
+| [🧭 CareerCompass AI](https://github.com/TejoRamReddy/CareerCompass-AI) | Python · Flask · Gemini API · SQLite · scikit-learn · HTML5 · CSS3 | [🌐 Live Demo](https://careercompass-ai-whcv.onrender.com) | AI-powered career interview · Content-based filtering & cosine similarity · Skill-gap analysis · Team Pixel Pioneers |
 
 ---
 
 ## 🎖️ Achievements & Certifications
 
-<div align="center">
-
 | 🏅 | Achievement | Details |
-|:--:|:-----------:|:-------:|
+|---|---|---|
 | 🎓 | B.Tech CSE | CGPA 8.11 (upto 5th sem) · 3rd Year, 6th Sem · Dr. MGR Institute, Chennai |
 | 📚 | Class XII | 88.3% · SR Junior College, Tirupathi |
 | 🌟 | Class X | **99.5%** · Narayana High School, Tirupathi |
+| 🔎 | Google Certified | AI Fundamentals (Coursera) |
 | 🏆 | Meta Certified | Introduction to Front-End Development |
 | 🎨 | Adobe Certified | Design Fundamentals with AI |
 | 🔵 | IBM Certified | Introduction to Software Engineering |
 | 💼 | HP Life Certified | AI for Business Professionals |
 
-</div>
-
 ---
 
 ## 🎓 Education
 
-<div align="center">
-
 | Degree | Institution | Year | Score |
-|:------:|:-----------:|:----:|:-----:|
+|---|---|---|---|
 | B.Tech — CSE | Dr. MGR Educational and Research Institute, Chennai | 2023 – Present | CGPA: 8.11 (upto 5th sem) |
 | Class XII | SR Junior College, Tirupathi | 2021 – 2023 | 88.3% |
 | Class X | Narayana High School, Tirupathi | 2020 – 2021 | 99.5% |
-
-</div>
 
 ---
 
@@ -193,20 +158,12 @@ public class TejoRam {
 
 ## 📬 Connect With Me
 
-<div align="center">
-    
 [![Email](https://img.shields.io/badge/Email-tejoram07@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tejoram07@gmail.com)
-    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejo%20Ram%20Reddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejo-ram-reddy-3b61a130a)
-    
 [![GitHub](https://img.shields.io/badge/GitHub-TejoRamReddy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TejoRamReddy)
-    
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Chennai)
-    
-![Profile Views](https://komarev.com/ghpvc/?username=TejoRamReddy&color=70a5fd&style=flat-square&label=Profile+Views)
-
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=TejoRamReddy&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/TejoRamReddy)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
